@@ -50,7 +50,8 @@
         "streambuf": "cpp",
         "typeinfo": "cpp",
         "condition_variable": "cpp",
-        "mutex": "cpp"
+        "mutex": "cpp",
+        "future": "cpp"
     },
     "terminal.integrated.shell.windows": "cmd.exe"
 }
